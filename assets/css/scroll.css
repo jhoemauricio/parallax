@@ -1,0 +1,4 @@
+/*Para deslizar suave para cada link dentro da pagina*/
+html {
+    scroll-behavior: smooth;
+ }
